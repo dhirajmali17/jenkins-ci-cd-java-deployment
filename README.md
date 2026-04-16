@@ -22,11 +22,12 @@ jenkins-ci-cd-java-deployment/
 ---
   
 ## 🏗️ Architecture Diagram
-* **Jenkins Server** → Build & Automation
-* **Tomcat Server** → Deployment Target
-* **GitHub** → Source Code Repository
-  
-![CI/CD Architecture](./diagrams/architecture-diagram.png)
+
+* **Jenkins Server** → Build & Automation  
+* **Tomcat Server** → Deployment Target  
+* **GitHub** → Source Code Repository  
+
+![CI/CD Architecture](./architecture/architecture-diagram.png)
 ---
 
 ## 🔗 Source Code Repository
