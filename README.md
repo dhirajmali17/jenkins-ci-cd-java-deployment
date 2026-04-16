@@ -5,7 +5,7 @@
 
 This project demonstrates a complete **CI/CD process** for deploying a Java web application using **Jenkins, Maven, and Apache Tomcat** on AWS EC2.
 
-The pipeline automates the entire process — from pulling code to deploying it live — without manual intervention.
+The process automates the entire workflow — from pulling code to deploying it live — without manual intervention.
 
 ---
 
